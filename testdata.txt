@@ -1,0 +1,2525 @@
+{
+  "id": "c7ffb9f4-f9f6-4ca7-bab6-250a706b638b",
+  "productDetailCategories": [
+    {
+      "categoryIndex": 70,
+      "categoryLevel": 2,
+      "categoryName": "Gömlek",
+      "categoryGtmName": null,
+      "categorySeoName": "gomlek",
+      "id": "faea6253-a90e-4f2f-ad14-a95b7d6fbfd3",
+      "isActive": true,
+      "categoryLv1": null,
+      "categoryLv2": null,
+      "categoryLv3": null
+    },
+    {
+      "categoryIndex": 1413,
+      "categoryLevel": 1,
+      "categoryName": "Giyim",
+      "categoryGtmName": null,
+      "categorySeoName": "giyim",
+      "id": "fcb2052f-642d-4e43-8a3a-7dff39a6784b",
+      "isActive": true,
+      "categoryLv1": null,
+      "categoryLv2": null,
+      "categoryLv3": null
+    },
+    {
+      "categoryIndex": 1,
+      "categoryLevel": 0,
+      "categoryName": "Erkek",
+      "categoryGtmName": null,
+      "categorySeoName": "erkek",
+      "id": "0217ce21-ceb0-4339-ab37-5537bda8a8e6",
+      "isActive": true,
+      "categoryLv1": null,
+      "categoryLv2": null,
+      "categoryLv3": null
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "name": "Ana Sayfa",
+      "gtmName": null,
+      "url": "/",
+      "displayOrder": 1,
+      "isUrl": true
+    },
+    {
+      "name": "Erkek",
+      "gtmName": null,
+      "url": "/erkek",
+      "displayOrder": 2,
+      "isUrl": true
+    },
+    {
+      "name": "Giyim",
+      "gtmName": null,
+      "url": "/erkek-giyim",
+      "displayOrder": 3,
+      "isUrl": true
+    },
+    {
+      "name": "Gömlek",
+      "gtmName": null,
+      "url": "/erkek-gomlek",
+      "displayOrder": 4,
+      "isUrl": true
+    },
+    {
+      "name": "Slim Fit Uzun Kollu %100 Pamuk Gömlek",
+      "gtmName": "",
+      "url": "",
+      "displayOrder": 5,
+      "isUrl": false
+    }
+  ],
+  "productDetailProductColors": [
+    {
+      "id": "a3a56758-6699-4220-bf8e-e0c368f20532",
+      "productId": "00000000-0000-0000-0000-000000000000",
+      "productVariantId": "c7ffb9f4-f9f6-4ca7-bab6-250a706b637b",
+      "productSeoName": null,
+      "productVariantSeoName": null,
+      "productVariantColorName": "Siyah",
+      "productVariantIndex": 0,
+      "productVariantParentColorName": "Siyah",
+      "productVariantPictureName": "R1680AZ_23SP_BK81_01_05.jpg",
+      "productVariantPictureNameBigSize": "R1680AZ_23SP_BK81_01_05.jpg"
+    },
+    {
+      "id": "caa12d97-3405-45a5-beab-f9e80d69cffa",
+      "productId": "9447356d-a984-4515-9838-8cb1ede01f31",
+      "productVariantId": "ee3f13a8-7346-4d3f-9af7-f2e29fd783af",
+      "productSeoName": "slim-fit-uzun-kollu-gomlek",
+      "productVariantSeoName": "slim-fit-uzun-kollu-gomlek",
+      "productVariantColorName": "Turkuaz",
+      "productVariantIndex": 2768351,
+      "productVariantParentColorName": "Turkuaz",
+      "productVariantPictureName": "R1680AZ_23SP_TR157_01_02.jpg",
+      "productVariantPictureNameBigSize": null
+    },
+    {
+      "id": "2e9bdb17-401b-4650-ad47-36e589412da0",
+      "productId": "9447356d-a984-4515-9838-8cb1ede01f31",
+      "productVariantId": "343e00e3-e12b-4a59-9487-e1e48d3e866f",
+      "productSeoName": "slim-fit-uzun-kollu-gomlek",
+      "productVariantSeoName": "slim-fit-uzun-kollu-gomlek",
+      "productVariantColorName": "Beyaz",
+      "productVariantIndex": 2768350,
+      "productVariantParentColorName": "Beyaz",
+      "productVariantPictureName": "R1680AZ_23SP_WT34_01_02.jpg",
+      "productVariantPictureNameBigSize": null
+    }
+  ],
+  "productDetailSize": {
+    "detailSizes": [
+      {
+        "id": "5c3fb56d-d6bb-4963-8dfe-23e76498c3a1",
+        "quantity": 0,
+        "size": "XS"
+      },
+      {
+        "id": "aec20b43-35ff-483c-adf1-c153cf89d50b",
+        "quantity": 1,
+        "size": "S"
+      },
+      {
+        "id": "fddf5a00-a79d-41a5-bd03-8364cda2aae6",
+        "quantity": 0,
+        "size": "M"
+      },
+      {
+        "id": "505434cf-573d-4ae3-822c-699790ba9b0f",
+        "quantity": 0,
+        "size": "L"
+      },
+      {
+        "id": "ca2b7f77-d364-497c-b69a-ba1e65669911",
+        "quantity": 0,
+        "size": "XL"
+      },
+      {
+        "id": "64c9d987-1ee6-4eef-a175-d81848cf303c",
+        "quantity": 0,
+        "size": "XXL"
+      },
+      {
+        "id": "6ff7a10d-9119-4067-8e12-7bb10ed0fe53",
+        "quantity": 0,
+        "size": "3XL"
+      }
+    ],
+    "productDetailSizes": [
+      {
+        "productVariantMatrixStockQuantity": 0,
+        "productVariantMatrixCrossBorderQuantity": 0,
+        "productVariantMatrixStockMessage": null,
+        "productVariantMatrixDcStockQty": 0,
+        "productVariantMatrixStoreStockQty": 0,
+        "productVariantSizeDisplayOrder": 44,
+        "isDomesticProduction": false,
+        "productVariantSizeId": "5c3fb56d-d6bb-4963-8dfe-23e76498c3a1",
+        "productVariantSizeName": "XS",
+        "productVariantSubLenght": null,
+        "productVariantSubSize": "XS",
+        "productVariantMatrixId": "80b139f7-4d20-456c-8273-398d79fce7d7",
+        "barcode": "8682865077438",
+        "productVariantMatrixIndex": 229947290,
+        "productVariantMatrixMeasurement": [
+          {
+            "measurementName": "ARKA ORTADAN BOY",
+            "measurementValue": 73,
+            "productVariantMatrixIndex": 229947290
+          }
+        ],
+        "measurementName": "ARKA ORTADAN BOY",
+        "measurementValue": 73
+      },
+      {
+        "productVariantMatrixStockQuantity": 1,
+        "productVariantMatrixCrossBorderQuantity": 0,
+        "productVariantMatrixStockMessage": null,
+        "productVariantMatrixDcStockQty": 1,
+        "productVariantMatrixStoreStockQty": 0,
+        "productVariantSizeDisplayOrder": 47,
+        "isDomesticProduction": false,
+        "productVariantSizeId": "aec20b43-35ff-483c-adf1-c153cf89d50b",
+        "productVariantSizeName": "S",
+        "productVariantSubLenght": null,
+        "productVariantSubSize": "S",
+        "productVariantMatrixId": "0f13f240-ea9c-4491-9704-91cbdb72cf0d",
+        "barcode": "8683523984532",
+        "productVariantMatrixIndex": 232181409,
+        "productVariantMatrixMeasurement": [],
+        "measurementName": null,
+        "measurementValue": null
+      },
+      {
+        "productVariantMatrixStockQuantity": 0,
+        "productVariantMatrixCrossBorderQuantity": 0,
+        "productVariantMatrixStockMessage": null,
+        "productVariantMatrixDcStockQty": 0,
+        "productVariantMatrixStoreStockQty": 0,
+        "productVariantSizeDisplayOrder": 50,
+        "isDomesticProduction": false,
+        "productVariantSizeId": "fddf5a00-a79d-41a5-bd03-8364cda2aae6",
+        "productVariantSizeName": "M",
+        "productVariantSubLenght": null,
+        "productVariantSubSize": "M",
+        "productVariantMatrixId": "d728c0b1-c28b-4e22-bd1c-fa24c7979d5c",
+        "barcode": "8682865077452",
+        "productVariantMatrixIndex": 229844295,
+        "productVariantMatrixMeasurement": [
+          {
+            "measurementName": "ARKA ORTADAN BOY",
+            "measurementValue": 76,
+            "productVariantMatrixIndex": 229844295
+          }
+        ],
+        "measurementName": "ARKA ORTADAN BOY",
+        "measurementValue": 76
+      },
+      {
+        "productVariantMatrixStockQuantity": 0,
+        "productVariantMatrixCrossBorderQuantity": 0,
+        "productVariantMatrixStockMessage": null,
+        "productVariantMatrixDcStockQty": 0,
+        "productVariantMatrixStoreStockQty": 0,
+        "productVariantSizeDisplayOrder": 52,
+        "isDomesticProduction": false,
+        "productVariantSizeId": "505434cf-573d-4ae3-822c-699790ba9b0f",
+        "productVariantSizeName": "L",
+        "productVariantSubLenght": null,
+        "productVariantSubSize": "L",
+        "productVariantMatrixId": "5e5d09b1-87d1-4ea4-9e0c-58888926e24a",
+        "barcode": "8682865077469",
+        "productVariantMatrixIndex": 229947291,
+        "productVariantMatrixMeasurement": [
+          {
+            "measurementName": "ARKA ORTADAN BOY",
+            "measurementValue": 77,
+            "productVariantMatrixIndex": 229947291
+          }
+        ],
+        "measurementName": "ARKA ORTADAN BOY",
+        "measurementValue": 77
+      },
+      {
+        "productVariantMatrixStockQuantity": 0,
+        "productVariantMatrixCrossBorderQuantity": 0,
+        "productVariantMatrixStockMessage": null,
+        "productVariantMatrixDcStockQty": 0,
+        "productVariantMatrixStoreStockQty": 0,
+        "productVariantSizeDisplayOrder": 55,
+        "isDomesticProduction": false,
+        "productVariantSizeId": "ca2b7f77-d364-497c-b69a-ba1e65669911",
+        "productVariantSizeName": "XL",
+        "productVariantSubLenght": null,
+        "productVariantSubSize": "XL",
+        "productVariantMatrixId": "733eaffd-112d-4558-8cf8-cc2c7bc0fc2d",
+        "barcode": "8682865077476",
+        "productVariantMatrixIndex": 229947289,
+        "productVariantMatrixMeasurement": [
+          {
+            "measurementName": "ARKA ORTADAN BOY",
+            "measurementValue": 78,
+            "productVariantMatrixIndex": 229947289
+          }
+        ],
+        "measurementName": "ARKA ORTADAN BOY",
+        "measurementValue": 78
+      },
+      {
+        "productVariantMatrixStockQuantity": 0,
+        "productVariantMatrixCrossBorderQuantity": 0,
+        "productVariantMatrixStockMessage": null,
+        "productVariantMatrixDcStockQty": 0,
+        "productVariantMatrixStoreStockQty": 0,
+        "productVariantSizeDisplayOrder": 58,
+        "isDomesticProduction": false,
+        "productVariantSizeId": "64c9d987-1ee6-4eef-a175-d81848cf303c",
+        "productVariantSizeName": "XXL",
+        "productVariantSubLenght": null,
+        "productVariantSubSize": "XXL",
+        "productVariantMatrixId": "fad49aa1-3750-404b-9ded-296368b8871b",
+        "barcode": "8682865077483",
+        "productVariantMatrixIndex": 229947288,
+        "productVariantMatrixMeasurement": [
+          {
+            "measurementName": "ARKA ORTADAN BOY",
+            "measurementValue": 79,
+            "productVariantMatrixIndex": 229947288
+          }
+        ],
+        "measurementName": "ARKA ORTADAN BOY",
+        "measurementValue": 79
+      },
+      {
+        "productVariantMatrixStockQuantity": 0,
+        "productVariantMatrixCrossBorderQuantity": 0,
+        "productVariantMatrixStockMessage": null,
+        "productVariantMatrixDcStockQty": 0,
+        "productVariantMatrixStoreStockQty": 0,
+        "productVariantSizeDisplayOrder": 60,
+        "isDomesticProduction": false,
+        "productVariantSizeId": "6ff7a10d-9119-4067-8e12-7bb10ed0fe53",
+        "productVariantSizeName": "3XL",
+        "productVariantSubLenght": null,
+        "productVariantSubSize": "3XL",
+        "productVariantMatrixId": "7d3e6735-00dc-4c00-8021-53f147269596",
+        "barcode": "8682865077490",
+        "productVariantMatrixIndex": 229947292,
+        "productVariantMatrixMeasurement": [
+          {
+            "measurementName": "ARKA ORTADAN BOY",
+            "measurementValue": 80,
+            "productVariantMatrixIndex": 229947292
+          }
+        ],
+        "measurementName": "ARKA ORTADAN BOY",
+        "measurementValue": 80
+      }
+    ],
+    "productSizeDisplay": true,
+    "productSizeShowDivided": false
+  },
+  "productDetailStaticContents": [
+    {
+      "name": "Ürün Hakkında",
+      "productDetailStaticContentItems": [
+        {
+          "description": "Modelin Ölçüleri Boy 1,87 Göğüs 95 Bel 74 Basen 97"
+        },
+        {
+          "description": "Modelin Ölçüleri Boy 1,90 Göğüs 96 Bel 81 Basen 93"
+        },
+        {
+          "description": "Gün boyu konforlu bir kullanım sağlayan pamuk karışımlı kumaşı, uzun kollu, şık ve stil sahibi tasarımı ile günlük hayatınızda, işyerinizde, davetlerde, chino pantolon, takım elbiseler ve klasik ayakkabılar ile harika görünen kombinler oluşturabilirsiniz. DeFacto Erkek Slim Fit Klasik Uzun Kollu Gömlek&#39;i günlük tarzınıza dinamik bir hava katmak için keyifle kullanabilirsiniz."
+        },
+        {
+          "description": "Pamuk 100%"
+        }
+      ]
+    },
+    {
+      "name": "Teslimat",
+      "productDetailStaticContentItems": [
+        {
+          "description": "Tahmini teslimat süresi, bulunduğunuz adrese göre 2-5 iş günü arasında değişkenlik gösterecektir (Pazar günleri ve resmi tatiller hariçtir)."
+        }
+      ]
+    },
+    {
+      "name": "İade ve Değişim",
+      "productDetailStaticContentItems": [
+        {
+          "description": "Siparişinizdeki kullanılmamış ürünleri orijinal paketleri ile 30 gün içinde size en yakın mağazalarımızdan iade edebilir, 90 gün içerisinde mağazalarımızda değişim yapabilir ya da aşağıdaki adımları izleyerek sitemiz üzerinden iade edebilirsiniz."
+        },
+        {
+          "description": "\"Hesabım\" alanında yer alan \"Siparişlerim\" listesinden iade etmek istediğiniz siparişinizi seçiniz."
+        },
+        {
+          "description": "\"Sipariş Detayı\" sayfasından \"İade Talebi\" butonuna basınız."
+        },
+        {
+          "description": "Ekranda çıkan iade kodu ile birlikte ücretsiz olarak PTT Kargo ile iade gönderiminizi tamamlayınız. Diğer tüm kargo şirketleri ile yapılan iadelerde kargo ücreti göndericiye aittir."
+        }
+      ]
+    }
+  ],
+  "stampImages": [],
+  "stampImagesV2": [],
+  "stampImagesV2OfUnderPicture": [
+    {
+      "stampImageId": "74d93ead-31ac-4274-a517-e842b6727c8b",
+      "shopByIndex": null,
+      "stampImagePath": "24_Saatte_Kargoda-11.svg",
+      "languageIndex": 1,
+      "stampImagePositions": [
+        {
+          "stampImageVerticalMargin": 0,
+          "stampImageHorizontalMargin": 0,
+          "stampImageVerticalAlignmentTypeId": "8ed64f64-3070-4837-a3dc-6ac82fdb213a",
+          "stampImageHorizontalAlignmentTypeId": "0f8ad332-0106-4534-a9c2-31f4a1ad0fe3",
+          "stampPlatformTypeId": "5176f93e-3341-431e-a1f9-84fd0b0f594b",
+          "stampSectionTypeId": "ba0ad649-355b-41ed-9887-99136fbaee4c",
+          "startDate": "2023-09-04T10:45:25.497+03:00",
+          "endDate": null,
+          "url": "/tum-urunler",
+          "isCategoryRedirect": true,
+          "displayOrder": 3
+        }
+      ],
+      "displayOrder": 3
+    }
+  ],
+  "stampImagesV2ViewModel": [],
+  "productAttributes": [],
+  "productDetailPictures": [
+    {
+      "productPictureName": "R1680AZ_23SP_BK81_08_02.jpg",
+      "productPictureOrder": 8,
+      "videoPathName": null,
+      "isAudible": null
+    },
+    {
+      "productPictureName": "R1680AZ_23SP_BK81_09_03.jpg",
+      "productPictureOrder": 9,
+      "videoPathName": null,
+      "isAudible": null
+    },
+    {
+      "productPictureName": "R1680AZ_23SP_BK81_10_01.jpg",
+      "productPictureOrder": 10,
+      "videoPathName": null,
+      "isAudible": null
+    },
+    {
+      "productPictureName": "R1680AZ_23SP_BK81_01_05.jpg",
+      "productPictureOrder": 1,
+      "videoPathName": null,
+      "isAudible": null
+    },
+    {
+      "productPictureName": "R1680AZ_23SP_BK81_02_05.jpg",
+      "productPictureOrder": 2,
+      "videoPathName": null,
+      "isAudible": null
+    },
+    {
+      "productPictureName": "R1680AZ_23SP_BK81_03_05.jpg",
+      "productPictureOrder": 3,
+      "videoPathName": null,
+      "isAudible": null
+    },
+    {
+      "productPictureName": "R1680AZ_23SP_BK81_04_04.jpg",
+      "productPictureOrder": 4,
+      "videoPathName": null,
+      "isAudible": null
+    },
+    {
+      "productPictureName": "R1680AZ_23SP_BK81_05_04.jpg",
+      "productPictureOrder": 5,
+      "videoPathName": null,
+      "isAudible": null
+    },
+    {
+      "productPictureName": "R1680AZ_23SP_BK81_06_04.jpg",
+      "productPictureOrder": 6,
+      "videoPathName": null,
+      "isAudible": null
+    },
+    {
+      "productPictureName": "R1680AZ_23SP_BK81_07_03.jpg",
+      "productPictureOrder": 7,
+      "videoPathName": null,
+      "isAudible": null
+    }
+  ],
+  "fashionModels": [
+    {
+      "bust": 96,
+      "fasionModelErpId": 1155,
+      "firstName": "Valerii P",
+      "height": 1.9,
+      "hips": 93,
+      "lastName": null,
+      "middleName": null,
+      "waist": 81,
+      "productId": 231480205,
+      "bigSize": false,
+      "id": 1322,
+      "isActive": true,
+      "isDeleted": false,
+      "createdUserId": "00000000-0000-0000-0000-000000000000",
+      "createdDateTime": "0001-01-01T02:00:00+02:00",
+      "updatedUserId": null,
+      "updatedDateTime": null
+    },
+    {
+      "bust": 95,
+      "fasionModelErpId": 1075,
+      "firstName": "Bora  Apaydın",
+      "height": 1.87,
+      "hips": 97,
+      "lastName": null,
+      "middleName": null,
+      "waist": 74,
+      "productId": 231480205,
+      "bigSize": true,
+      "id": 1256,
+      "isActive": true,
+      "isDeleted": false,
+      "createdUserId": "00000000-0000-0000-0000-000000000000",
+      "createdDateTime": "0001-01-01T02:00:00+02:00",
+      "updatedUserId": null,
+      "updatedDateTime": null
+    }
+  ],
+  "customerProductVariantMarks": [],
+  "categoryUrlRelation": null,
+  "categoryErpDescription": "",
+  "compositionDescription": "Pamuk 100%",
+  "productCategoryId": "faea6253-a90e-4f2f-ad14-a95b7d6fbfd3",
+  "productCategoryName": "Gömlek",
+  "categoryGtmName": "Gömlek",
+  "productFullDescription": "Gün boyu konforlu bir kullanım sağlayan pamuk karışımlı kumaşı, uzun kollu, şık ve stil sahibi tasarımı ile günlük hayatınızda, işyerinizde, davetlerde, chino pantolon, takım elbiseler ve klasik ayakkabılar ile harika görünen kombinler oluşturabilirsiniz. DeFacto Erkek Slim Fit Klasik Uzun Kollu Gömlek&#39;i günlük tarzınıza dinamik bir hava katmak için keyifle kullanabilirsiniz.  ",
+  "productFullDescription2": "Gün boyu konforlu bir kullanım sağlayan pamuk karışımlı kumaşı, uzun kollu, şık ve stil sahibi tasarımı ile günlük hayatınızda, işyerinizde, davetlerde, chino pantolon, takım elbiseler ve klasik ayakkabılar ile harika görünen kombinler oluşturabilirsiniz. DeFacto Erkek Slim Fit Klasik Uzun Kollu Gömlek&#39;i günlük tarzınıza dinamik bir hava katmak için keyifle kullanabilirsiniz.",
+  "returnChangeDescription": "",
+  "productLongCode": "R1680AZ23SPBK81",
+  "productVariantMagentoIndex": 2768349,
+  "productId": "9447356d-a984-4515-9838-8cb1ede01f31",
+  "productSeoName": "slim-fit-uzun-kollu-gomlek",
+  "productVariantSeoName": "slim-fit-surdurulebilir-uzun-kollu-gomlek",
+  "productName": "Slim Fit Uzun Kollu %100 Pamuk Gömlek",
+  "productGtmName": "",
+  "productVariantColorId": "a3a56758-6699-4220-bf8e-e0c368f20532",
+  "productVariantParentColorId": "607fc413-8d03-477e-bb40-1625e2ac1905",
+  "productVariantDescription": null,
+  "productVariantName": "Slim Fit Uzun Kollu %100 Pamuk Gömlek",
+  "sizeChart": "WOMAN;2;2447;1608;1882;2177",
+  "productDetailStaticContentHeaderImage": "https://dfcdn.defacto.com.tr/Tablet/Template/info_banner3.png",
+  "productVariantColorName": "Siyah",
+  "productVariantParentColorName": "Siyah",
+  "productVariantColorSeoName": "siyah",
+  "colorGtmName": "",
+  "metaTitle": "Siyah Erkek Slim Fit Uzun Kollu %100 Pamuk Gömlek 2768349 | DeFacto",
+  "productGender": "Erkek",
+  "productVariantId": "c7ffb9f4-f9f6-4ca7-bab6-250a706b637b",
+  "productGenderId": "0217ce21-ceb0-4339-ab37-5537bda8a8e6",
+  "productVariantIndex": {
+    "valueKind": 1
+  },
+  "metaDescription": "Aradığın Erkek Slim Fit Uzun Kollu %100 Pamuk Gömlek uygun fiyatla ve büyük beden seçeneği ile DeFacto'da. Slim Fit Uzun Kollu %100 Pamuk Gömlek için hemen tıkla! 2768349",
+  "metaKeywords": "siyah erkek slim fit uzun kollu %100 pamuk gömlek, siyah slim fit uzun kollu %100 pamuk gömlek, erkek slim fit uzun kollu %100 pamuk gömlek, slim fit uzun kollu %100 pamuk gömlek",
+  "productInstallmentPriceInclTax": 388.87,
+  "productPriceInclTax": 349.99,
+  "productVariantDiscountedInstallmentPriceInclTax": 388.87,
+  "productVariantDiscountedPriceInclTax": 349.99,
+  "productColorAndCategoryUrl": null,
+  "productColorAndCategoryName": null,
+  "sampleSizeNameResource": null,
+  "sampleBigSizeNameResource": null,
+  "merchSubGroup": null,
+  "lastCategory": {
+    "categoryIndex": 1,
+    "categoryLevel": 0,
+    "categoryName": "Erkek",
+    "categoryGtmName": "",
+    "categorySeoName": "erkek",
+    "id": "0217ce21-ceb0-4339-ab37-5537bda8a8e6",
+    "isActive": true,
+    "categoryLv1": null,
+    "categoryLv2": null,
+    "categoryLv3": null
+  },
+  "productSeasonName": "23SP",
+  "productVariantShopBies": [
+    {
+      "id": "debcee00-5cce-4176-be45-c32a4cb6bc8b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "09125fe7-2d4c-4966-8cb0-367c6396d944",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "25385c65-4bc8-4bd5-a544-8b091b7b36dd",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "13d41ae1-b857-41bd-9f27-aeecb5498973",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "234867e3-7592-49ba-85fc-9e317c2fe773",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "15446f4a-ba36-44d8-a844-63e7515a8f33",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7539d94e-2a73-415d-a163-e6ac0fc08b32",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "5a7646af-63c3-4aeb-9eda-154a55593b91",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0bb31d1c-f234-4496-b8d3-fd74869146ca",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a977ae87-95cc-4c77-9f8e-04557e8ee5d3",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e1503d47-83cc-46fa-bb62-2eed51aa1224",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a53bf008-cd08-4e0d-9aad-72e6cab42856",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "78ee7702-4a54-4e39-b926-c54e326927a4",
+      "isOutLet": false,
+      "outOfStockText": "Max 5000 KZT",
+      "isBigSize": false
+    },
+    {
+      "id": "876f6561-8cc8-4032-9ac5-659a7544d01a",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "dc420086-0d4d-4945-bc7f-9e9e1a281b6b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "8bf5b9b4-4a73-41b1-a8ec-36a1a126ab9d",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "49e74067-522e-4e57-8e51-ba42dea9e9d8",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f03e5680-304e-4c4d-b4c0-e7ae6307af5c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "2c6fc016-ecca-4768-8356-6d0e829c65a8",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "6fa18c65-e9d9-4259-a3be-81e25e00bf8b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "42640756-8b2f-4203-a152-6aeca0333d97",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4dd50b06-dd7b-4715-8242-4c429faa85dc",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a17da189-ad87-455f-9ab1-70f635efce1b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "48876616-6c03-40c6-a9f8-b7c4c809700a",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "db986ef4-c1d2-4810-ab8a-19b5dc2ad854",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "11a54f46-dc27-45c0-a2f6-3b20f7bbc9f9",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "d68c0ab7-92b7-4b51-9612-993463d7bcfc",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ed54b6ae-2041-46f5-9f55-2d49f1854d10",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a4445e13-7b43-4c33-9db5-aca0f67a2ac2",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "8d9ff901-56d4-4a3d-a125-bc7571e972cd",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "75da18ea-d727-4971-ba46-a813e74bd548",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c5470d9b-ed87-4aff-8b1a-6aabcd078d2e",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "1dbe3309-f633-4aa8-b9bc-f2785b790e18",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "2da3c701-5a9d-4e32-ba76-2613c3d14ba1",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "cd8d5405-ca4d-4380-8f1e-d4aef7ab283f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "9914cda4-1b41-4f97-a690-d79c06e93cfc",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0135f093-535a-42e9-9d9b-82fa5acd5fc9",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "8d9da8a3-eb6d-4512-a08e-ed0cbf6fa3ab",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "9eaec1b7-8e4e-4cb3-be63-fc590a186ce9",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a6acd244-ba8f-489f-9366-adb6aa188cc8",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "06b8027b-e40d-4355-bf91-5d66b17f344b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "54583feb-772a-4067-a2cd-09805afd53f7",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "5545d28e-6578-4a72-9250-20cd1f48f3f0",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e33471c5-aac3-418e-bc56-fbe86736858f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "50ff1653-b0e0-44d9-9b9a-396d8439f66b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "86c53da1-c075-4834-b13f-51549ba9212d",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0fc8da20-c864-4b23-a936-f58b3490cdd5",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a4c3b497-797c-4a4b-a498-5ee20cbc80f8",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "d297e216-1503-4eee-a931-5dfc7712602c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "65d290a9-aff3-4661-a783-d10a7bb9056f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "8a664792-4823-43c9-9d3c-d842810edb24",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0fed7621-222f-4649-ad66-8500182deff7",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "b9c5cf01-bd3b-4849-96df-6fe54060bd7e",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "d11b1ae7-3be4-44aa-b342-332f347d701c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e698e7d5-00fc-4d1c-b473-45a43e714c4b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "48b09a0b-0e3a-41a0-b103-d6fff8665245",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c32ce07b-d169-42f6-ba90-b3a45176f449",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a6dc0007-9117-462a-ba3b-0a09a248fc83",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a7b7a385-b78d-47ad-ab90-621f75c1f0f6",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "fc19a5fd-7b00-413e-80d9-6639a7f6eb71",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a2f3b8f8-3827-4591-85f0-1bbcf3b8dd83",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "d5bea37f-9808-4550-9c25-0dff32488a96",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "8dc8bd2d-b3fe-4581-a63f-c13f49ccc08e",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "b91d040f-5a03-42b8-a241-2a8afcbcfbed",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "3fa79328-7a94-42c8-872e-f010a9286556",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a5d7c398-d4ca-438f-baaa-c7b8da76394f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "065b9b0f-f9ac-4548-bec1-7536ce05a879",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7fb732e8-dea7-436f-a19d-c7d701d5f755",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "175ca3b6-499c-440a-a57a-c54bb959de12",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7834559e-36b2-4cb5-a066-a07c20bd0a5c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "686a0aa2-c1e7-4bf8-9b6d-f64aa17ab6eb",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c5b78973-c139-4926-aa79-d99dabc43f1b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "07d0fde3-fad8-4db5-a014-f5347d2ee575",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "dadcf9ee-cd85-4886-aa96-eafdece06c30",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0fd68248-3508-447e-ba3b-48579252f5e8",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "b44dcbd7-b7ff-41f4-b59e-d09446bb4c64",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "8d008dca-bfb8-4493-82f5-8c79ac32d12f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0e416978-ff4f-4eea-8c9d-81f13af3a9e6",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "28a8f8d0-45e5-424d-a2ad-b0687b3afd16",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ce4fd1fd-fc7b-4536-9294-69aff873d139",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e5f864c1-e5c9-4e3b-b274-a4eab852af5a",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7f434d3b-3ff5-4f89-a7b0-8863093e49fe",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "67497439-3b70-481b-aabe-9983b8241757",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f366e0d5-a463-4790-bcfc-9f012a6513b5",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "1378daa4-ba52-4305-b543-d3f6a3b34d13",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "34190bce-877d-41a4-b000-306f8c73ee52",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "95f1a768-64f0-44a0-b5ed-8bda996e42b0",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "dbd67152-44b8-422f-8cc0-6910bf6a6412",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "92329e1c-dceb-4d45-a8e9-72aa293b5479",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "00145b77-a834-43e9-94fb-b1918773471b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e97635df-b102-4ce9-80c9-23d288ab31eb",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4b1e2cbc-e257-4877-9dca-840f1c02a5cc",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e26b648b-628b-4845-a067-ac38a7ef6205",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "1a10753a-6ffb-4ff2-b1a8-c8b2b6817949",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "84c743e0-81eb-4d7c-84ff-4a4a4dc6955a",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "50c4d343-01a5-465d-9b03-66cfd587c0a4",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "22137823-dcd3-4242-845e-1686ef3109cd",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "6f1eecbe-6337-42f8-a263-6648764f0ee4",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f55185ec-f4c7-4c8f-8316-a9504688f46c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "322606b0-822d-4325-b00c-5fc516d7f54e",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "fefbc544-d156-4441-9f4c-dc8bf635ed93",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "d999fc47-d835-4e76-ac82-e6f8690287fe",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e2d66bd3-8602-454d-8164-9de6de8ab82c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "48be4b91-9c1a-435d-b194-fa2ee4762920",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "82207532-a74d-4fc2-b44c-b56ced6a89cd",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "85b16e1f-7474-47d7-9e0c-fe4c08be95af",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "cd0d58e0-cc9e-4653-9054-5955d81fe73f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "732fe8c4-4589-4812-a74b-50c5f0ae6ec1",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "41718f07-9cd2-4b16-83e4-c22b918aa7e9",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e2334ae3-d2f7-41ba-9768-9fc84d2b127b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "bee57b84-f261-423d-8861-b32183207b73",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0a18510f-c851-4ebe-8eeb-61c131063478",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "30a66e82-35cf-438a-9105-721a2976b3a1",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4b48e617-f72d-4bb9-9981-bb50824bc293",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "13095158-02c6-4375-aa15-e7af49d62ab7",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f10a2df9-45b8-4c0b-875a-f073626f0e11",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e5e2410d-83c5-45a2-ad20-06862be71204",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "65b4451b-0660-44b1-9935-593ccae3970b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": true
+    },
+    {
+      "id": "8865b74d-c08c-4eda-b06c-5cabe5f87df8",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "63b62220-00f6-4bd1-ab34-e9213e9b73d0",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "2bcb7bbd-17d0-4b3e-9686-63169c6e4edd",
+      "isOutLet": false,
+      "outOfStockText": "Man 11.11 EXTRA 25% OFF",
+      "isBigSize": false
+    },
+    {
+      "id": "37ba6ffa-4f64-4055-8b47-bd7529e95526",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4c58b2cf-474b-436f-a203-d5730019e31c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "9957f21e-dc0d-42fa-8b06-cebf9a1e7529",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ec069b66-4822-4c8c-9a46-ab80c49fd539",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "11d315b6-e8b7-498c-b6b0-189bb35adc4d",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7c316edf-23ee-49f1-9a03-06ec48634fce",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "3363fb2e-8074-4c5b-86be-042925a924f0",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "2492ddb6-3a50-4e2f-a752-192994ee9e1f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "fad2f482-4010-4d3f-87a8-dedacf846f48",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "fc2df32c-b065-45e1-9d2a-d635e8012dd1",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "be8fe066-fea9-4c05-894c-0b5cf494bb6b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "282031eb-9d3f-4023-b79f-3e9e25d3fcda",
+      "isOutLet": false,
+      "outOfStockText": "11.11 Big Campaign",
+      "isBigSize": false
+    },
+    {
+      "id": "4fe0be09-e0f5-4598-bc09-41a17cce1af5",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "56e727e7-cbe1-4af2-ab0b-3ec21155ba7b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4c2e2756-a592-4103-90f5-aa3ebaf99094",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e7bb5461-e3ac-4507-84d9-6b49b01f9981",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "acc7fe81-9c02-4c0f-95e6-d5632630b29a",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "6cae50fa-270f-44ee-bce6-71f184c50c89",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7af6a1b1-0d6d-4b8c-94d5-923daae1f0e0",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7c7ebd1b-c85d-45f9-8fc6-4d78632a8e22",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "77b194df-3932-424c-8c24-e56fb10e6838",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "6ee31beb-ef64-41e2-b2a2-7ba1d9d31930",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4c96f3b8-1bda-4c0c-b7e9-9efcdd79d8a2",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c8d3da76-d47e-471f-bb32-909d7d511b9c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "77ca3c3f-600e-4a3d-9841-9f4466a1ea6b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "71354d59-c774-4b15-8886-0c3d5c170c40",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7c5b6e45-07c9-479d-ac00-f979332a0ffc",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "d2eecc8c-d641-4b1e-a3c9-5c058e3512df",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "05b4ff97-d0ce-44e4-bca8-f220efbc3f20",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "096c6e95-47cd-4d5b-970d-7c90f514cd40",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "41a8b944-61d1-4c25-b9fc-99dcaaf9d56a",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a55d5c15-1155-4396-b558-622916cb2c64",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "29d62082-bc1b-4619-8a78-ce83941f901f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ffe06472-cfd9-48e9-bb18-e71e0333fd59",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "d86dbe7b-1a1f-40e4-84c2-943a7ca0d1fa",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "05f1f6a1-627f-495a-877d-4715535e3fb2",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "91f7d67a-ff61-4123-b39c-e2af90340063",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "30087ec1-426d-48d7-8bd9-a0a5a0bea703",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "1f3ea99e-e00b-415d-865f-d6bfa9e38f97",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "455b8f01-bffe-416f-9b42-bed731d66a23",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "57b08821-bcdf-4080-a5b9-c72c20581b24",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "312b1bd8-c1da-4cee-934b-c8a6467bd4e2",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7f0518a4-c69e-476d-ab98-c9960d7c3376",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "6a594ded-3a29-4f09-a7c2-88616076f488",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "63d27fe7-9ae5-4532-9ccb-46a4378e39e1",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "83bfd58b-e16c-48b7-b16e-ea6891778776",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "d0c228ab-4c53-4647-8dae-66cfaea9cec1",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a1cad134-df49-496b-8c4d-09645f1f0826",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "dcdacbe5-3b70-40df-a6ae-45b7f6b3e3a5",
+      "isOutLet": false,
+      "outOfStockText": "Best Combination",
+      "isBigSize": false
+    },
+    {
+      "id": "22b356f1-208f-44eb-8faf-220b4693b65d",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "aff55b23-b098-4116-aa6b-441bed6f9f20",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c9657659-8e51-45cc-bb09-b9ada39217b5",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "6ca68a15-4f1c-4b4e-8a70-b8cbf853c0b7",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ebd1d9d8-7a0f-43b5-ac92-7ad64314265b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "863cf978-a069-4f0e-86d4-c2b7d4cda45e",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "6ec43efd-6c45-4c14-bb37-b6440237687f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "81f1dbf9-a9eb-49a1-b31d-afb6d9061bbb",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ea328fad-fad0-44ef-af04-5fa6657dd550",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "a9189caa-93dd-460a-bb42-446802fedf5d",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ecfd109b-34da-48e0-92ac-970782cde343",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4363ee7a-012b-486a-8767-c83773d1a929",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4655af77-c04c-4567-8bdb-578e94f760db",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "b4da3eb8-06de-4bc2-94d2-054cd80f0620",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ca8fa338-648d-4c01-b657-d14d87a49734",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e700310b-02a7-48c0-af07-b2c4ba771d23",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "6f4d05eb-20b2-448e-b520-005eb1089d74",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7fd1306c-da8e-4319-8b10-5d247907b2f0",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "be42092e-50c0-42e4-922d-32464eca3654",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c86bb6ae-8784-435c-b52f-52caf5a85fec",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "771856ce-3ea0-4d6a-87c8-19da0e34d737",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "41439a6e-035f-4c47-9545-65d0f042aba3",
+      "isOutLet": false,
+      "outOfStockText": "Man All Products",
+      "isBigSize": false
+    },
+    {
+      "id": "b4c46cc4-3a2c-4113-938a-f80adca77f03",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "69632bde-eb03-449a-9063-b8f49b362b70",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "d5e21f35-8043-4099-a92f-20f7e5c19517",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0154b207-60f1-4d20-be8b-fbc985f2b222",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f1bb3ed0-6787-4386-9e1b-03bccbe667b1",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "9cfc845c-13fe-44da-969f-b598a0624702",
+      "isOutLet": false,
+      "outOfStockText": "Man Up To 50% Everything",
+      "isBigSize": false
+    },
+    {
+      "id": "8d7b4e8b-dcfb-412e-b236-148d76585262",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f48a32bf-af65-4d02-93c4-fab175ffdab1",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c7439196-a1f7-4a4d-bb85-2c293423927a",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "59e54045-66d6-41b2-925d-0b1c2ed43183",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "2ab02fbd-bd7a-4efd-ac3e-62225fe96d79",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f6fb6b00-69cd-4f69-8405-722c3027b473",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "3ac3caa3-bdd6-41b7-a6fc-f6b1f1071f58",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "428635cd-1bf0-4d37-8f3f-259bffecf681",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0fb3130d-4fc8-4eaf-9880-37f47f618e42",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "cac483cf-c7d1-4e50-9fa5-659c6c43b8bc",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "91eed8b0-c23b-4fb0-88cc-57ac1f6bb1d3",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c6cc828f-01a1-4e3e-b98d-68eddb65144f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4f6d7d5b-0edb-4a05-8631-513b9aa5ca44",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "639cb8af-4e27-4e50-b90f-154f6cfb2e07",
+      "isOutLet": false,
+      "outOfStockText": "Black Friday Up To 50% Everything",
+      "isBigSize": false
+    },
+    {
+      "id": "0e412a87-868f-4ae3-8e2c-e15620030d5d",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "d2038076-8cb6-44f4-b82b-0efe19c9c085",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7cb72814-dce0-4491-bf7e-0ba4b3db05d5",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f452cd72-3683-4d89-92ed-0a5c5ee22eb2",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7db528ac-4dc6-446b-a6a5-a9ee7f5cb444",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "2fc6b1a0-4b54-43ae-bb8e-4389c1b72329",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "3d59865b-09cf-4c6c-96fc-a3cd079d576c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4b12937c-7ef9-4ce3-b299-de3214ad2605",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ecde574b-88ce-4888-86bb-80e5061f7403",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "18662cea-3231-46a1-b892-818ba394289c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "8634ad8f-a70c-40d3-9717-fbf884aee795",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "fc6630b3-ac24-44ab-aa93-1c84bdc45707",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "25619bd6-bdca-4cc2-a46c-0cabfd37f45c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "b30c0b41-d407-4080-bd05-6247905de904",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "33c8993f-c890-460f-a1c1-5304fb846e5e",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "77b444f3-270a-4510-9703-da842127bc19",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f5766014-8140-447d-9d97-5d4a2b13b606",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "73a19ead-8aac-45ee-a3df-32994aed425d",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "fb350e50-356d-47f4-ac0e-596d3131c90f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "486aa5de-14dc-436e-b2cf-f04929552c50",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e3807138-fdc2-4842-9215-5fd90bfe6362",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "5f26e3bf-1383-4a90-bb62-1232e3e6fa16",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e151ec0e-c639-44a6-9b2b-368501a43c3c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "13d8554a-abc5-4534-85fb-1569ae7c75fb",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e934b524-2deb-4854-964c-aa0177ff38e5",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "20c3b0a4-3a20-4d0f-8e0d-b7ec14e69693",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "034b6e07-834e-4c21-9752-75faae65c1f1",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ddb14ec6-3d85-4f35-96fd-d0c3137aa0ef",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "094a9f39-e284-4d94-b3d7-5b3329cd2dbc",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "356c3636-0eaf-4c58-a77f-ad187a302f89",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c8aac6cd-6614-43e2-96b6-d1287c0cce71",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "21d03795-6e61-4059-b63e-9cf2b5d89723",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f6d94774-2167-4324-ac2f-bc4f243590ad",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "80ced92b-d93d-42ca-ba03-ae7dadb4a5ca",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "b4b4668d-009a-4290-92a1-91e63cec48e2",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "3fd5c9a9-0809-4742-979c-c747e80a195a",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "b14cd8fd-db8c-4539-aecd-db426d65eb28",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f07b5788-1483-4423-9689-5597765306d6",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "07a0d0bc-4123-4972-9f3d-95962138e8c8",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "fac2a381-610d-401e-b5b3-9193d74d447a",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "5180e17a-dba6-41da-a770-84b44e141c5c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "92153852-ad4c-4633-9fb7-7360973b3c75",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "f0cc7515-b1b7-4859-a89d-5925f9d88b90",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "5089d05a-71a3-4ea6-8ade-7fbf7f280398",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "ff3e867a-90d0-46ee-9061-c1f070840432",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "5a6fe0d4-0a3a-4279-96ad-5f4168cd2149",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "65ce86c3-14e8-4c07-bb92-423eb9cce90d",
+      "isOutLet": false,
+      "outOfStockText": "Man Clothing",
+      "isBigSize": false
+    },
+    {
+      "id": "3bccaf83-1103-4f01-aad3-fac07c99238c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "e09a4c87-2af0-4853-8291-7e111a0ec687",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "573824db-9c33-4ca0-8986-0ccf71098091",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "20d85d21-1c0f-4aa3-b4fc-8788241d001b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "400aeceb-f6cf-4853-b1e9-6cf5a8f18198",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "cfc0aa88-2469-4cc0-b0e5-19d205c96396",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "76f6be3f-bcc1-441a-bf4c-054efb51bc61",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c6995421-8da1-4b54-a916-b4a6633bce7c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "b86722cc-5cf4-4905-b8c6-b4a7e3fe1e23",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "50958bcd-9dbb-4290-89f7-ea039f6d9597",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0b27c9af-1692-4614-b4e7-acbbcf3726b4",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "994b5eda-959f-4758-ae67-bb2f1a372b02",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "97846099-4381-4cf8-aeec-790557119bf4",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "4c265ec4-97eb-4f34-8945-1db4aaa9aaf1",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "20f5e480-8495-46c1-ab47-28f1b15fc30d",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "fcb8aea1-9255-4205-a981-6e678f729ed0",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "887b4e83-0b68-43ce-91c6-db3c933b1337",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "25457e7f-d3a0-4f82-879b-729c9d688fdd",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "dbe6caad-bee3-4fe3-ae13-af2fd6fe5ed7",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "83af24a7-d326-48fc-ad2e-ed08ccd5308b",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "5dbc046b-2fdb-4953-b71e-bae8c1654b88",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0360c659-2d41-4517-a883-1e88c984a19c",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "dd4a7480-cf58-4f6e-9aa1-4d018b86cbda",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "0da859d2-6408-4153-ab1e-280a67b1a65d",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "7d5b1e63-fabd-4898-9045-3ff5793b9ea4",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "94784d93-d3c7-49a1-86a0-15fcef54dc45",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "c8c791ae-91b7-4300-9225-f338917e4cd7",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "5a623077-af6c-48f0-87fc-619dbd6c91cf",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    },
+    {
+      "id": "8d936c98-036f-40f7-a468-65fa82f2993f",
+      "isOutLet": false,
+      "outOfStockText": "",
+      "isBigSize": false
+    }
+  ],
+  "productClassification": [
+    {
+      "key": "c8dc6390-1f14-4f1b-8797-087983337970",
+      "value": 148
+    }
+  ],
+  "myFitDataListId": "05788422-b12d-4bb2-b11c-ae0146b9abf9",
+  "myFitCustomerFitDataId": "00000000-0000-0000-0000-000000000000",
+  "myFitProductVariantMatrixSizeIdList": [
+    {
+      "sizeId": "5c3fb56d-d6bb-4963-8dfe-23e76498c3a1",
+      "productVariantMatrixId": "80b139f7-4d20-456c-8273-398d79fce7d7",
+      "storeStockQty": 0,
+      "stockQuantity": 0,
+      "dcStockQty": 0
+    },
+    {
+      "sizeId": "aec20b43-35ff-483c-adf1-c153cf89d50b",
+      "productVariantMatrixId": "0f13f240-ea9c-4491-9704-91cbdb72cf0d",
+      "storeStockQty": 0,
+      "stockQuantity": 1,
+      "dcStockQty": 1
+    },
+    {
+      "sizeId": "fddf5a00-a79d-41a5-bd03-8364cda2aae6",
+      "productVariantMatrixId": "d728c0b1-c28b-4e22-bd1c-fa24c7979d5c",
+      "storeStockQty": 0,
+      "stockQuantity": 0,
+      "dcStockQty": 0
+    },
+    {
+      "sizeId": "505434cf-573d-4ae3-822c-699790ba9b0f",
+      "productVariantMatrixId": "5e5d09b1-87d1-4ea4-9e0c-58888926e24a",
+      "storeStockQty": 0,
+      "stockQuantity": 0,
+      "dcStockQty": 0
+    },
+    {
+      "sizeId": "ca2b7f77-d364-497c-b69a-ba1e65669911",
+      "productVariantMatrixId": "733eaffd-112d-4558-8cf8-cc2c7bc0fc2d",
+      "storeStockQty": 0,
+      "stockQuantity": 0,
+      "dcStockQty": 0
+    },
+    {
+      "sizeId": "64c9d987-1ee6-4eef-a175-d81848cf303c",
+      "productVariantMatrixId": "fad49aa1-3750-404b-9ded-296368b8871b",
+      "storeStockQty": 0,
+      "stockQuantity": 0,
+      "dcStockQty": 0
+    },
+    {
+      "sizeId": "6ff7a10d-9119-4067-8e12-7bb10ed0fe53",
+      "productVariantMatrixId": "7d3e6735-00dc-4c00-8021-53f147269596",
+      "storeStockQty": 0,
+      "stockQuantity": 0,
+      "dcStockQty": 0
+    }
+  ],
+  "myFitSizeModel": null,
+  "portalDiscountBadgeEnable": true,
+  "categorySizeTableMapping": {
+    "categoryId": "faea6253-a90e-4f2f-ad14-a95b7d6fbfd3",
+    "typeId": "6b16a6fb-d638-4818-8c3a-bb912a9c787b",
+    "createdDateTime": "0001-01-01T02:00:00+02:00",
+    "createdUserId": "00000000-0000-0000-0000-000000000000",
+    "id": "00000000-0000-0000-0000-000000000000",
+    "isActive": false,
+    "isDeleted": false,
+    "updatedDateTime": null,
+    "updatedUserId": null
+  },
+  "currencyRate": 0,
+  "currencyUsdRate": 0,
+  "productMainCode": "R1680AZBK81",
+  "wideEyesTags": [],
+  "productDetailRating": {
+    "averateRating": 4.59,
+    "totalRatingCount": 222,
+    "totalCommentCount": 202,
+    "productRatingDataModelList": [
+      {
+        "ratingValue": 5,
+        "ratingCount": 170,
+        "commentCount": 154,
+        "percentage": 16.68
+      },
+      {
+        "ratingValue": 4,
+        "ratingCount": 29,
+        "commentCount": 28,
+        "percentage": 2.85
+      },
+      {
+        "ratingValue": 3,
+        "ratingCount": 13,
+        "commentCount": 11,
+        "percentage": 1.28
+      },
+      {
+        "ratingValue": 2,
+        "ratingCount": 4,
+        "commentCount": 4,
+        "percentage": 0.39
+      },
+      {
+        "ratingValue": 1,
+        "ratingCount": 6,
+        "commentCount": 5,
+        "percentage": 0.59
+      }
+    ],
+    "productCommentDataModelList": null,
+    "averagePattern": 0.55,
+    "commentsFlat": "[{\"Id\":\"0b973fc4-9f53-4afb-bbec-8c4dcf73aeba\",\"Comment\":\"@Beğendim \",\"Ratings\":5,\"FirstName\":\"Ümit\",\"LastName\":\"Şekeryapan\",\"CommentDateTime\":\"2021-05-19T02:00:08.293\"},{\"Id\":\"27ec0b1a-5702-4978-935c-5af4dad77d23\",\"Comment\":\"@Eşime aldım.Kumaşını  özellikle kalıbını çok beğendi.\",\"Ratings\":5,\"FirstName\":\"saadet\",\"LastName\":\"turna\",\"CommentDateTime\":\"2021-05-12T14:37:10.75\"},{\"Id\":\"2c228b2f-d2c2-4a50-a00d-85e3177afcc2\",\"Comment\":\"@\",\"Ratings\":3,\"FirstName\":\"Nevzat\",\"LastName\":\"Velioğlu\",\"CommentDateTime\":\"2020-07-02T10:28:34.627\"}]",
+    "commentDataModel": [
+      {
+        "id": "0b973fc4-9f53-4afb-bbec-8c4dcf73aeba",
+        "comment": "@Beğendim ",
+        "ratings": 5,
+        "firstName": "Ümit",
+        "lastName": "Şekeryapan",
+        "pattern": null,
+        "commentDateTime": "2021-05-19T02:00:08.293"
+      },
+      {
+        "id": "27ec0b1a-5702-4978-935c-5af4dad77d23",
+        "comment": "@Eşime aldım.Kumaşını  özellikle kalıbını çok beğendi.",
+        "ratings": 5,
+        "firstName": "saadet",
+        "lastName": "turna",
+        "pattern": null,
+        "commentDateTime": "2021-05-12T14:37:10.75"
+      },
+      {
+        "id": "2c228b2f-d2c2-4a50-a00d-85e3177afcc2",
+        "comment": "@",
+        "ratings": 3,
+        "firstName": "Nevzat",
+        "lastName": "Velioğlu",
+        "pattern": null,
+        "commentDateTime": "2020-07-02T10:28:34.627"
+      }
+    ]
+  },
+  "productVariantPropertyDatas": [
+    {
+      "attributeName": "Ürün Ana Grubu",
+      "id": "2e6fae21-bc7c-425e-b8a8-3a253e2cbe21",
+      "productWebNameAttributeId": "42099f41-0a93-47b8-97dc-9e1b6e77cca5",
+      "productVariantId": "00000000-0000-0000-0000-000000000000",
+      "productWebNameAttributeTagId": "6e056a9c-5150-4339-b379-3e42325a1805",
+      "productWebNameAttributeTagRegionIds": [
+        44,
+        49,
+        6,
+        48,
+        1
+      ]
+    },
+    {
+      "attributeName": "Ürün Mevsim Koşul",
+      "id": "bd4860f0-924e-40d9-89c6-44c9d0b77b00",
+      "productWebNameAttributeId": "882d4b8f-b33f-48dd-8064-91c4eb450488",
+      "productVariantId": "00000000-0000-0000-0000-000000000000",
+      "productWebNameAttributeTagId": "761f494b-5438-4688-9970-4dfa7cacd8ae",
+      "productWebNameAttributeTagRegionIds": [
+        1
+      ]
+    },
+    {
+      "attributeName": "Kalıp",
+      "id": "9322f2ab-bc2e-49a0-bfa5-5dc4580e07ae",
+      "productWebNameAttributeId": "5b922087-201c-43c7-b86e-512fd38be970",
+      "productVariantId": "00000000-0000-0000-0000-000000000000",
+      "productWebNameAttributeTagId": "a3ae04a9-b54d-4ea1-9fe5-e3ec0145f6ce",
+      "productWebNameAttributeTagRegionIds": [
+        49,
+        6,
+        7,
+        44,
+        48,
+        1,
+        38
+      ]
+    },
+    {
+      "attributeName": "Alt Ürün Grubu",
+      "id": "9bfbbfdd-f940-49cc-8cdb-6488b42fd740",
+      "productWebNameAttributeId": "94028416-ef0d-4c7c-a3f3-404acc77a398",
+      "productVariantId": "00000000-0000-0000-0000-000000000000",
+      "productWebNameAttributeTagId": "d8487460-c172-497f-9e70-84bdd14d621d",
+      "productWebNameAttributeTagRegionIds": [
+        1,
+        48
+      ]
+    },
+    {
+      "attributeName": "Ürün Tipi",
+      "id": "f9332270-c2bf-4f15-afa9-d6491872e7f3",
+      "productWebNameAttributeId": "c6121920-e5c0-4c52-8728-a84f79e1bb84",
+      "productVariantId": "00000000-0000-0000-0000-000000000000",
+      "productWebNameAttributeTagId": "7149376c-a175-43da-a046-53ffc2d00a32",
+      "productWebNameAttributeTagRegionIds": [
+        1
+      ]
+    },
+    {
+      "attributeName": "Renk",
+      "id": "363615b6-cece-4281-9a7c-ea18f40717e8",
+      "productWebNameAttributeId": "ab953f4f-cfff-4294-8aa1-d73de1504fa2",
+      "productVariantId": "00000000-0000-0000-0000-000000000000",
+      "productWebNameAttributeTagId": "bb10ef55-91b4-40c3-adbb-674f563e4878",
+      "productWebNameAttributeTagRegionIds": [
+        7,
+        1,
+        44
+      ]
+    }
+  ],
+  "campaignBadge": null,
+  "productSupplierId": "0d04d666-79ab-4d1a-a923-6df56bdd217e",
+  "estimatedDeliveryText": "12 Ekim - 15 Ekim",
+  "productCode": "R1680AZ",
+  "outOfStockText": null,
+  "productCategoryGender": "00000000-0000-0000-0000-000000000000",
+  "productBenefitIcons": [],
+  "productWashingIcons": [],
+  "productVariantMatrixMeasurement": null,
+  "shelfLife": 217,
+  "totalProductStock": 1,
+  "isBigSizeProduct": true,
+  "deadlineTime": null,
+  "deadlineTimeQuantity": null,
+  "deadlineTimeBadgeUrl": null
+}

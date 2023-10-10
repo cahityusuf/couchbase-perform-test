@@ -1,5 +1,6 @@
 ﻿using cb_perform_test.Models;
 using Couchbase.Extensions.DependencyInjection;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,18 +12,19 @@ namespace cb_perform_test.Services
     {
         private readonly IClusterProvider _clusterProvider;
         private readonly IBucketProvider _bucketProvider;
-
-        public ProductDetailService(IClusterProvider clusterProvider, IBucketProvider bucketProvider)
+        private readonly IConfiguration _configuration;
+        public ProductDetailService(IClusterProvider clusterProvider, IBucketProvider bucketProvider, IConfiguration configuration = null)
         {
             _clusterProvider = clusterProvider;
             _bucketProvider = bucketProvider;
+            _configuration = configuration;
         }
 
         public async Task<ResultModel<List<ProductDetailWebModel>>> Get(string id)
         {
             var cluster = await _clusterProvider.GetClusterAsync();
 
-            var n1ql = $"SELECT d.* FROM DeFacto d WHERE d.id = '{id}'";
+            var n1ql = $"SELECT d.* FROM {_configuration.GetValue<string>("Couchbase:BucketName")} d WHERE d.id = '{id}'";
             var result = await cluster.QueryAsync<ProductDetailWebModel>(n1ql, new Couchbase.Query.QueryOptions());
             var resultData = await result.Rows.ToListAsync();
 
@@ -34,7 +36,7 @@ namespace cb_perform_test.Services
 
         public async Task<string> Set(ProductDetailWebModel product)
         {
-            var bucket = await _bucketProvider.GetBucketAsync("DeFacto");
+            var bucket = await _bucketProvider.GetBucketAsync(_configuration.GetValue<string>("Couchbase:BucketName"));
             var collection = bucket.DefaultCollection();
 
             var key = Guid.NewGuid().ToString();
