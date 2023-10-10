@@ -50,10 +50,14 @@ namespace cb_perform_test.Services
 
             if (get.status != 0)
             {
+                Console.WriteLine("Cache bulundu===> "+get.data[0].ProductName);
+
                 return get;
             }   
 
-            await Set(productDetailWebModel);
+            var setResult = await Set(productDetailWebModel);
+
+            Console.WriteLine("Cache yok===> " + setResult);
 
             var productList = new List<ProductDetailWebModel>();
 
