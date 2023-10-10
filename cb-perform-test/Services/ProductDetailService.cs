@@ -41,7 +41,7 @@ namespace cb_perform_test.Services
 
             var key = Guid.NewGuid().ToString();
             await collection.InsertAsync(key, product);
-            return "Inserted user with ID: " + key;
+            return "Inserted user with ID: " + product.Id;
         }
 
         public async Task<ResultModel<List<ProductDetailWebModel>>> Test(ProductDetailWebModel productDetailWebModel)
