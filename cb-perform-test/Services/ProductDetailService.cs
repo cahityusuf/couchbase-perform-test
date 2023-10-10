@@ -50,8 +50,6 @@ namespace cb_perform_test.Services
 
             if (get.status != 0)
             {
-                Console.WriteLine("Cache bulundu===> "+get.data[0].ProductName);
-
                 return get;
             }   
 
