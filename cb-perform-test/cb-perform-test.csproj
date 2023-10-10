@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <RootNamespace>cb_perform_test</RootNamespace>
     <UserSecretsId>942d9d54-41a4-4ae0-8969-912256b262b4</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
